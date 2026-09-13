@@ -1,0 +1,26 @@
+# Compiled output
+build/
+out/
+bin/
+*.class
+*.jar
+
+# IDE / editor
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+nbproject/
+*.swp
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local runtime files
+.snake-highscore
